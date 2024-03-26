@@ -1,1 +1,2 @@
 Not my first hello world, but hopefully the one that I commit to.
+Trying out git commit messages via VSCode.
